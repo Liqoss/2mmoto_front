@@ -89,8 +89,8 @@ export default makeStyles((theme) => ({
         cursor: 'pointer',
 
         '@media (max-width: 500px)' : {
-            top: '70px',
-            right: '25px'
+            top: '130px',
+            right: '35px'
         },
     },
     crossLeft: {
