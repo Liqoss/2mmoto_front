@@ -53,6 +53,7 @@ export default makeStyles((theme) => ({
         fontSize: '1rem',
         fontWeight: 'bolder',
         position: 'absolute',
+        paddingInline: 'inherit'
     },
     ul_title: {
         fontSize: '1rem',
